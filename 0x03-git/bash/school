@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "School is very funny"
->>>>>>> update_script
+echo "The school is open!"
